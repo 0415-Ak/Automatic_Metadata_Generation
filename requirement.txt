@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+langchain
+keybert
+sentence-transformers
+spacy
+nltk
+requests
+python-dotenv
