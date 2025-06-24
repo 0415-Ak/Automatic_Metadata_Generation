@@ -84,10 +84,12 @@ pip install -r requirements.txt
 # Run the Streamlit application
 streamlit run app.py
 
+---
 
 ## 📝 License
 This project is licensed under the MIT License.
 
+---
 
 ## 👤 Author
 
