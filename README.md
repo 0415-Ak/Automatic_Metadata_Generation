@@ -28,6 +28,23 @@ It uses **text preprocessing, chunking, vectorization**, and **LLM-based summari
 
 ---
 
+## 📁 Project Structure
+
+     automatic-metadata-summary-generation/
+│
+├── app.py # Streamlit interface
+├── requirements.txt
+├── README.md
+├── research/
+│ └── Automated_Metadata_generation.ipynb
+└── src/
+├── extractor.py # File reading logic
+├── preprocessor.py # Preprocessing text
+├── summarizer.py # Chunking + merge summary
+├── mistral_api.py # API calls to Mistral
+├── prompts.py # Prompt templates
+└── utils.py # Helpers, KeyBERT, JSON parsing
+
 ## 🛠️ Technologies Used
 
 - **Python** – Core programming
