@@ -90,6 +90,7 @@ This project is licensed under the MIT License.
 
 
 ## 👤 Author
+
 -Akshat Jain
 -🎓 B.Tech - Mechanical Engineering, IIT Roorkee
 -📧 akshat_j1@me.iitr.ac.in
