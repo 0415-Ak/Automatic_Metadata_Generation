@@ -1,4 +1,4 @@
-# 📄 Auto Metadata & Summary Generator
+# 📄 Automatic_Metadata_Generation
 
 A simple yet powerful document intelligence system that extracts structured metadata and generates a clean summary from `.pdf`, `.docx`, or `.txt` files using Natural Language Processing and Large Language Models (LLMs).
 
@@ -71,7 +71,7 @@ It uses **text preprocessing, chunking, vectorization**, and **LLM-based summari
 
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/auto-metadata-summary.git
+git clone https://github.com/Automatic_Metadata_Generation.git
 cd auto-metadata-summary
 
 # Create virtual environment (optional)
@@ -91,9 +91,9 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+### 👤 Author
 
--Akshat Jain
--🎓 B.Tech - Mechanical Engineering, IIT Roorkee
--📧 akshat_j1@me.iitr.ac.in
--🌐 GitHub: @0415-Ak
+- **Name:** Akshat Jain  
+- 🎓 **Education:** B.Tech - Mechanical Engineering, IIT Roorkee  
+- 📧 **Email:** akshat_j1@me.iitr.ac.in  
+- 🌐 **GitHub:** [@0415-Ak](https://github.com/0415-Ak)
