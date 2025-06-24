@@ -43,7 +43,8 @@ It uses **text preprocessing, chunking, vectorization**, and **LLM-based summari
 ├── summarizer.py # Chunking + merge summary
 ├── mistral_api.py # API calls to Mistral
 ├── prompts.py # Prompt templates
-└── utils.py # Helpers, KeyBERT, JSON parsing ```
+└── utils.py # Helpers, KeyBERT, JSON parsing
+```
 
 ## 🛠️ Technologies Used
 
