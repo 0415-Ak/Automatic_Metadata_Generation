@@ -5,7 +5,7 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
 
-from llm_call import call_chunk_summary, call_combined_summary
+from src.llm_call import call_chunk_summary, call_combined_summary
 
 def generate_all_chunk_summaries(chunks: list) -> list:
     """

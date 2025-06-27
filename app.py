@@ -7,11 +7,11 @@ from io import StringIO
 # Add the path to the 'src' directory
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from extract_text import extract_text_from_file
-from preprocessor import lightly_clean_text
-from chunker import split_text_into_chunks
-from summarizer import generate_all_chunk_summaries, merge_summaries
-from utils import parse_and_enhance
+from src.extract_text import extract_text_from_file
+from src.preprocessor import lightly_clean_text
+from src.chunker import split_text_into_chunks
+from src.summarizer import generate_all_chunk_summaries, merge_summaries
+from src.utils import parse_and_enhance
 
 from dotenv import load_dotenv
 load_dotenv()
